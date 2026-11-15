@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fuyad Hasan</h1>
-<h3 align="center">AI Developer </h3>
+<h3 align="center">I'm an aspiring AI Automation Specialist from Bangladesh, passionate about building smart digital solutions and automating everyday business tasks.  I love exploring AI technologies and turning creative ideas into practical solutions that help businesses grow and work smarter.</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=fuyadhasan0208">
